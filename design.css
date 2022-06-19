@@ -1,0 +1,44 @@
+h1{
+    background-image:url("Background.jpeg") ;
+    top:0;
+    padding: 15px;
+    margin-top:0px;
+}
+body{
+    text-align: center;
+}
+#mypic{
+    height:500px;
+    border-color:grey;
+    border-style:ridge;
+    border-width:15px;
+}
+marquee{
+    padding:20px;
+    font-size:25px;
+}
+#menu{
+    width:100%;
+    background-color:aquamarine;
+    margin-top:0px;
+    list-style:none;
+}
+.Links{
+    display:inline;
+    float:left;
+    padding:10px;
+    top:0px;
+    margin-top:0px;
+
+}
+p{
+    margin-left:50px;
+    margin-right:50px;
+    border:5px solid aquamarine;
+    padding:10px;
+}
+h2{
+    background-color:cyan;
+    width:200px;
+    margin-left:40%;
+}
